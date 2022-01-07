@@ -1,0 +1,13 @@
+{
+  "transactions": [
+    {
+      "date": "2021-09-15T03:00:00.000Z",
+      "week_day": "quarta",
+      "description": "Venda de carro.",
+      "value": 15000,
+      "category": "Vendas",
+      "type": "credit",
+      "id": 1
+    }
+  ]
+}
