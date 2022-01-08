@@ -4,7 +4,7 @@
 
 Após alguns meses trabalhando em projetos mais simples, você foi designado pelo seu Tech Lead para desenvolver uma aplicação que será apresentada a um cliente muito importante.
 
-Para acessar o repositório da API que será consumida no front, acesse o seguinte [link](https://github.com/cubos-academy/dindin-api).
+Para acessar o repositório da API que será consumida no front, acesse o seguinte [link](https://github.com/brenoamin/projeto-controle-de-financas/tree/master/API%20consumida%20no%20Front).
 
 Para o seu desenvolvimento foi liberado layout que você pode encontrar no seguinte [ link](https://www.figma.com/file/65wDh5PJwzSy7IYOS4AWAj).
 
@@ -13,18 +13,17 @@ Para acessar o pdf contendo as informações de id e class, acesse o seguinte [l
 
 O sistema trata-se de uma aplicação para controles de finanças pessoais, e as funcionalidades são: 
 
-#### Observação: Existem funcionalidades obrigatórias e opcionais!
 
-- Cadastro de uma nova transação (**Obrigatório**)
-- Edição de uma transação (**Obrigatório**)
-- Exclusão de uma transação (**Obrigatório**)
-- Listagem de transações (**Obrigatório**)
-- Ordernação dos items conforme clicado no header da tabela nas seguintes colunas: Data, Dia da semana e Valor (**Obrigatório**)
-- Na parte de resumo, o valor de entradas,saídas e saldo é referente ao que está listado na tabela (**Obrigatório**)
+- Cadastro de uma nova transação
+- Edição de uma transação
+- Exclusão de uma transação
+- Listagem de transações
+- Ordernação dos items conforme clicado no header da tabela nas seguintes colunas: Data, Dia da semana e Valor
+- Na parte de resumo, o valor de entradas,saídas e saldo é referente ao que está listado na tabela
 - A parte de filtros não é toda obrigatória, veja abaixo:
     - Dia da semana (**Opcional**)
     - Categoria (**Opcional**)
-    - Valor (**Obrigatório**)
+    - Valor 
 
 
 ## Dicas importantes
@@ -175,19 +174,18 @@ Para limpar os filtros atuais, o usuário deverá clicar no botão **limpar filt
 Veja na imagem abaixo os botões:
 ![](https://i.imgur.com/MEONJbE.png)
 
+Por fim, mas não menos importante, visualização das telas da aplicação:
 
-## Aulas úteis:
-
-- [Layout flex, layouts internos e externos](https://plataforma.cubos.academy/curso/b0149c95-5986-4ac2-ac4c-a0f323353f26/data/22/06/2021/aula/705a3d39-f5ea-4172-b4b1-2fca8f4d68b7/6b05a72d-78ee-420a-b4d0-3a3e3b8bd230)
-- [Fetch e assincronismo](https://plataforma.cubos.academy/curso/b0149c95-5986-4ac2-ac4c-a0f323353f26/data/05/08/2021/aula/55e6df94-4957-48cc-9c55-6e59698d4a0f/aa75d978-a61d-4955-a45d-9dc2d95add1d)
-- [Props](https://plataforma.cubos.academy/curso/b0149c95-5986-4ac2-ac4c-a0f323353f26/data/02/09/2021/aula/dfb35714-00cf-40b5-ac78-9296e8372bca/42594558-dc78-46b3-8db3-5df5b80114b6)
-- [Props Children](https://plataforma.cubos.academy/curso/b0149c95-5986-4ac2-ac4c-a0f323353f26/data/02/09/2021/aula/dfb35714-00cf-40b5-ac78-9296e8372bca/9de2f1e6-1408-4a86-99aa-67d1447e22e1)
-- [Quando criar components](https://plataforma.cubos.academy/curso/b0149c95-5986-4ac2-ac4c-a0f323353f26/data/02/09/2021/aula/dfb35714-00cf-40b5-ac78-9296e8372bca/58dd1a1c-2779-4995-9d60-2cf3bd0b8dab)
-- [Estado](https://plataforma.cubos.academy/curso/b0149c95-5986-4ac2-ac4c-a0f323353f26/data/09/09/2021/aula/7410f080-e739-4bef-bdea-895098399083/ab955da3-89d5-4542-81f4-a7d864e773c4)
-- [Eventos no React](https://plataforma.cubos.academy/curso/b0149c95-5986-4ac2-ac4c-a0f323353f26/data/14/09/2021/aula/ad274343-4ceb-4f26-a6e0-34ff0e9464c9/3c4c8f2f-c112-4fa6-a698-bfc72ba968dd)
-- [Gerenciando multiplos inputs de formulário](https://plataforma.cubos.academy/curso/b0149c95-5986-4ac2-ac4c-a0f323353f26/data/21/09/2021/aula/c4edccba-d339-4c61-842c-036233e71fa0/dd7dade0-f1db-4f8c-bf8e-58a9de0b2da6)
+![image](https://user-images.githubusercontent.com/62851616/148623179-93e3eeff-6337-4e64-9164-5a95571dd997.png)
+![image](https://user-images.githubusercontent.com/62851616/148623197-ddbb14bd-e8a2-4e5a-9c35-e8cf3ee1f96c.png)
+![image](https://user-images.githubusercontent.com/62851616/148623208-571809ec-972f-4423-92fc-5b5d233650e7.png)
+![image](https://user-images.githubusercontent.com/62851616/148623226-ddfce3c7-4832-42da-a3f2-81ee90689377.png)
+![image](https://user-images.githubusercontent.com/62851616/148623257-6a3feacf-55ce-434f-adfe-888bb9856499.png)
 
 
-**LEMBRE-SE**: é melhor feito do que perfeito!!!
+Espero que gostem do trabalho desenvolvido. 👋
+
+
+
 
 ###### tags: `front-end` `módulo 3` `React` `CSS` `desafio`
